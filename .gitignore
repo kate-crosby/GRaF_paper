@@ -1,0 +1,32 @@
+# File extensions for git to ignore #
+
+# Rasters #
+*.gri
+*.grd
+*.dat
+*.001
+*.nit
+*.dir
+*.adf
+*.xml
+*.zip
+*.gz
+*.rar
+*.tar
+
+# R stuff #
+*.Rhistory
+*.Rapp.history
+
+# Image stuff #
+*.svg
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
