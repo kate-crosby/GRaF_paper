@@ -23,3 +23,9 @@ I've also added a .gitignore for most of the rather large raster type files (whi
 
 I should have most of these sorted by day's end. 
 
+## The folder __'other'__ contains:
+
+1. A copy of the GRaF manuscript and appendices, as submitted to MEE.
+
+Note that I've switched to calling them GPs in this MS and more generally. Gaussian processes are exactly the same thing as Gaussian random fields, but that terminology is more used in the machine learning community, where mnore interesting work is being done on them.
+
